@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+#JanV's copy
+
 ## Table of contents
 
 * [Installation](#Installation)
